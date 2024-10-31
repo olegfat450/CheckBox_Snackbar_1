@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckBox_Snackbar_1</string>
+    <string name="text1">Введите текст</string>
+    <string name="button1Text">Сохранить данные</string>
+    <string name="button2Text">Удалить данные</string>
+    <string name="emptystring">_________________</string>
+</resources>
